@@ -1,0 +1,23 @@
+{
+  "name": "quote",
+  "version": "1.0.0",
+  "description": "Project to learn to use Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matiasjs/quote.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matiasjs/quote/issues"
+  },
+  "homepage": "https://github.com/matiasjs/quote#readme",
+  "dependencies": {
+    "puppeteer": "^12.0.1"
+  }
+}
